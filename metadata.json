@@ -1,0 +1,6 @@
+{
+  "name": "OpsDesk IT - Automated Help Desk & Analytics",
+  "description": "Enterprise IT support management system featuring intelligent automated ticket routing, skills-based dispatch, SLA tracking, and real-time operational analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
